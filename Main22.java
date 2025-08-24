@@ -7,7 +7,7 @@ public class Main22 {
     int[] arr=new int[n];
     for(int i=0;i<n;i++)
     {
-        arr[i]=sc.nextInt();
+        arr[i]=sc.nextInt();//taking user input
     }
     int pf[]=new int[n];
     pf[0]=arr[0];
@@ -31,3 +31,4 @@ public class Main22 {
     }
     }
 }
+
